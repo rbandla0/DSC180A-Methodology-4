@@ -1,4 +1,5 @@
 # DSC180A-Methodology-4
-Raghava Bandla
-rbandla@ucsd.edu
+Raghava Bandla and Akhil Jagarlamudi
+
+
 
